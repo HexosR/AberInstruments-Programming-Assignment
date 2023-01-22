@@ -1,0 +1,38 @@
+"Serial number: "
+ABC5243
+"Completed Time Stamp: "
+2016-07-08T16:02:47.0708933+01:00
+Average V1_fb at 50kHz at a maximum temperature for the last full oven cycle:
+"1,3967922"
+Average G at 50kHz at a maximum temperature for the last full oven cycle:
+"40,353413"
+Average C at 50kHz at a maximum temperature for the last full oven cycle:
+"96,48908"
+Average V1_fb at 64kHz at a maximum temperature for the last full oven cycle:
+"1,4206467"
+Average G at 64kHz at a maximum temperature for the last oven full cycle:
+"40,62777"
+Average C at 64kHz at a maximum temperature for the last oven full cycle:
+"97,94444"
+Average V1_fb at 50kHz at a minimum temperature for the last full oven cycle:
+"1,4111798"
+Average G at 50kHz at a minimum temperature for the last full oven cycle:
+"39,897896"
+Average C at 50kHz at a minimum temperature for the last full oven cycle:
+"98,54491"
+Average V1_fb at 64kHz at a minimum temperature for the last full oven cycle:
+"1,4329762"
+Average G at 64kHz at a minimum temperature for the last oven full cycle:
+"40,12423"
+Average C at 64kHz at a minimum temperature for the last oven full cycle:
+"99,078415"
+Time periods where the oven is at its maximum temperature:
+"""2016-07-07 20:23:27""","""2016-07-07 22:40:33"""
+"""2016-07-07 22:40:37""","""2016-07-07 22:42:55"""
+"""2016-07-08 04:23:25""","""2016-07-08 06:40:36"""
+"""2016-07-08 12:23:23""","""2016-07-08 14:40:46"""
+Time periods where the oven is at its minimum temperature:
+"""2016-07-07 17:06:18"" - ","""2016-07-07 18:39:57"""
+"""2016-07-08 00:23:30"" - ","""2016-07-08 02:40:10"""
+"""2016-07-08 08:23:28"" - ","""2016-07-08 10:40:05"""
+"""2016-07-08 10:40:06"" - ","""2016-07-08 10:42:25"""

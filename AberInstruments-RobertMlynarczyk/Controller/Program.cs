@@ -18,6 +18,7 @@ namespace AberInstruments_RobertMlynarczyk.Controller
 
 				string serialNumber = getSerialNumberFromXML(pathXML);
 				string completedTimeStamp = getCompletedTimeStampFromXML(pathXML);
+				//to make program faster we can create a function that returns both temperatures
 				float highestTemp = getHighestTemperatureFromCVS(pathCSV);
 				float lowestTemp = getLowestTemperatureFromCVS(pathCSV);
 				List<string> listHigh = getTimesWhenHighestTemperature(pathCSV, highestTemp);
@@ -26,6 +27,7 @@ namespace AberInstruments_RobertMlynarczyk.Controller
 				saveDataInCSVFile(serialNumber, completedTimeStamp, output, listHigh, listLow, i);
 			}
 		}
+		//Using csvHelper to save all data to .csv file
 		public static void saveDataInCSVFile(string serialNumber, string completedTimeStamp, List<string> output, List<string> listHigh, List<string> listLow, int i)
 		{
 			int pointer = 1;
@@ -69,7 +71,7 @@ namespace AberInstruments_RobertMlynarczyk.Controller
 				{
 					if (pointer == 1)
 					{
-						csv.WriteField(str + " - ");
+						csv.WriteField(str);
 						pointer--;
 					}
 					else

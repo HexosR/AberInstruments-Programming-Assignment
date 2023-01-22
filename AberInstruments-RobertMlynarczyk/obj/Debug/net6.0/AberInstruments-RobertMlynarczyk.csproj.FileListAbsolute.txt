@@ -1,0 +1,34 @@
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.exe
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.deps.json
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.runtimeconfig.json
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.dll
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.pdb
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.csproj.AssemblyReference.cache
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.AssemblyInfoInputs.cache
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.AssemblyInfo.cs
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.csproj.CoreCompileInputs.cache
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.dll
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\refint\AberInstruments-RobertMlynarczyk.dll
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.pdb
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.genruntimeconfig.cache
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\ref\AberInstruments-RobertMlynarczyk.dll
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Customer\Documents\Aber Instruments\AberInstruments-RobertMlynarczyk\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.csproj.CopyComplete
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.exe
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.deps.json
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.runtimeconfig.json
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.dll
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\AberInstruments-RobertMlynarczyk.pdb
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.csproj.AssemblyReference.cache
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.AssemblyInfoInputs.cache
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.AssemblyInfo.cs
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.csproj.CoreCompileInputs.cache
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.csproj.CopyComplete
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.dll
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\refint\AberInstruments-RobertMlynarczyk.dll
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.pdb
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\AberInstruments-RobertMlynarczyk.genruntimeconfig.cache
+C:\Users\Customer\Source\Repos\AberInstruments-Programming-Assignment\AberInstruments-RobertMlynarczyk\obj\Debug\net6.0\ref\AberInstruments-RobertMlynarczyk.dll

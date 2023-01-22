@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztU7AIAqHjx0OMrmTayHeiqL19N7an1pMd12vpqZD37azJCU8vuOU3vMAQAS2e76FikxXPKNLBPVKjHHjh1SfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Customer\\Source\\Repos\\AberInstruments-Programming-Assignment\\AberInstruments-RobertMlynarczyk\\AberInstruments-RobertMlynarczyk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Customer\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

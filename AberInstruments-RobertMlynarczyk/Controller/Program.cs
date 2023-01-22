@@ -29,6 +29,7 @@ namespace AberInstruments_RobertMlynarczyk.Controller
 		public static void saveDataInCSVFile(string serialNumber, string completedTimeStamp, List<string> output, List<string> listHigh, List<string> listLow, int i)
 		{
 			int pointer = 1;
+			//files are stored in bin/Debug/net6.0. Each file for each OvenTest
 			var csvPath = Path.Combine(Environment.CurrentDirectory, $"output" + i + ".csv");
 			using(var writer = new StreamWriter(csvPath))
 			using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
